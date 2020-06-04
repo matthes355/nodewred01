@@ -1,0 +1,12 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-fs-ops": "~1.5.0",
+        "node-red-contrib-spreadsheet-in": "~0.4.0",
+        "node-red-contrib-uibuilder": "~2.0.7",
+        "node-red-node-base64": "~0.2.1"
+    }
+}
